@@ -1,4 +1,4 @@
-my colab notebook: https://colab.research.google.com/drive/1IihH68oFuQpoPaYBFPwwZ380gRJpHI-U?usp=sharing
+my colab notebook:[ https://colab.research.google.com/drive/1IihH68oFuQpoPaYBFPwwZ380gRJpHI-U?usp=sharing](https://colab.research.google.com/drive/1G9gIwr6BZLgZdJehiRIrx3rg-mfSew4L#scrollTo=VrKLN0LZ-0OF)
 
 dataset used: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data
 
